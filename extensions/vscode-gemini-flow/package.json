@@ -371,9 +371,9 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
-    "@modelcontextprotocol/sdk": "^0.1.0",
+    "@modelcontextprotocol/sdk": "^1.29.0",
     "ws": "^8.13.0",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "axios": "^1.4.0"
   }
 }
